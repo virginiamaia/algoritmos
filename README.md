@@ -18,4 +18,3 @@ exercicio-agente: Exercicios 2.7, 2.8 e 2.9 do capítulo 2 do livro Inteligencia
 
 exercicio-minimax: Implementação do minimax - figura 5.3 - capitulo 5 do livro Inteligencia Artificial - Russel e Norvig - 3a Ed.
 
-exercicio-wumpus: Implementação do Mundo do Wumpus.
