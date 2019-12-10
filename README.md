@@ -18,3 +18,10 @@ exercicio-agente: Exercicios 2.7, 2.8 e 2.9 do capítulo 2 do livro Inteligencia
 
 exercicio-minimax: Implementação do minimax - figura 5.3 - capitulo 5 do livro Inteligencia Artificial - Russel e Norvig - 3a Ed.
 
+------------------------------------------------------------------------------------------------------------------------------------------
+
+Disciplina: Metaheurística para Otimização Combinatória
+
+ProblemaMochila: Implementação do algoritmo problema da mochila utilizando CPLEX.
+VNS_mochila: Implementação do algoritmo problema da mochila utilizando a metaheurística VNS.
+
