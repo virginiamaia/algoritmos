@@ -23,5 +23,6 @@ exercicio-minimax: Implementação do minimax - figura 5.3 - capitulo 5 do livro
 Disciplina: Metaheurística para Otimização Combinatória
 
 ProblemaMochila: Implementação do algoritmo problema da mochila utilizando CPLEX.
+
 VNS_mochila: Implementação do algoritmo problema da mochila utilizando a metaheurística VNS.
 
