@@ -1,6 +1,6 @@
 # algoritmos
-Algoritmos triviais (ou não) feitos durante o mestrado em Ciência da Computação
-
+Algoritmos triviais (ou não) feitos durante o mestrado em Ciência da Computação.
+__________________________________________________________________________________________________________________________________________
 
 Disciplina: Teoria dos Grafos
 
